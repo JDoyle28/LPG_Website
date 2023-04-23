@@ -105,7 +105,7 @@ footer {
 
 
 .parallax {
-    background-image: url("/Users/jacob/Downloads/Lake_Powell_Groceries/images/bck_6.jpg");
+    background-image: url(../images/bck_6.jpg);
     image-rendering: crisp-edges;
     background-size: cover;
 
@@ -121,7 +121,7 @@ footer {
 
 
   .parallax2 {
-    background-image: url("/Users/jacob/Downloads/Lake_Powell_Groceries/images/bck_6.jpg");
+    background-image: url(../images/bck_6.jpg);
     image-rendering: crisp-edges;
     background-size: cover;
 
